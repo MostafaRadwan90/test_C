@@ -1,0 +1,81 @@
+Please note:
+
+This software is protected under German and/or US American Copyright Laws and provisions in international treaties. Unauthorized reproduction and distribution of this software or parts of it is liable to prosecution. It will be prosecuted according to criminal as well as civil law and may result in severe punishment and/or damage claims.
+Please read all license provisions applicable to this software before installing and using this software. You will find them after this note.
+
+If you purchased this software on a CD marked as "Trial-Version" or together with another licensed software for you, this software may only be used for test and validation purposes according to the provisions of this Trial License stated after this note. A prerequisite for this kind of use is the installation of programs, software libraries, etc., on your computer. 
+THEREFORE, WE RECOMMEND TO INSTALL IT EITHER ON A STANDALONE COMPUTER OR ON A COMPUTER WHICH IS NOT NEEDED IN PRODUCTION OR FOR KEEPING IMPORTANT DATA BECAUSE WE CANNOT TOTALLY EXCLUDE THAT EXISTING DATA WILL BE MODIFIED OR OVERWRITTEN. THEREFORE, WE WILL NOT BE LIABLE FOR ANY DAMAGES RESULTING FROM THIS INSTALLATION OR FROM IGNORING THIS LEGAL NOTICE AND/OR FOR LOSS OF DATA.
+
+ANY OTHER TYPE OF USAGE OF THIS SOFTWARE IS ONLY ADMISSIBLE IF YOU HAVE A VALID LICENSE FROM US. IF YOU DO NOT HAVE A VALID LICENSE (WHICH HAS TO BE ESTABLISHED BY SUBMITTING A CORRESPONDING CERTIFICATE OF LICENSE/SOFTWARE PRODUCT-SHEET, YOU HAVE TO INTERRUPT THE INSTALLATION PROCESS IMMEDIATELY AND CONTACT OUR NEAREST OFFICE TO AVOID ANY DAMAGE CLAIMS.
+
+
+General License Conditions for Software Products for Automation and Drives
+(2006-09-21)
+
+1. Supply of Software to Licensee and Granting of Rights to use the Software
+
+1.1 These General License Conditions shall exclusively apply to the delivery of Software for Automation and Drives to the Licensee. General terms and conditions of the Licensee shall apply only where expressly accepted in writing by us. The scope of delivery of the Software shall be determined by the congruent mutual written declarations of both parties. We shall grant the Licensee rights to use the software specified in the Confirmation of Order or, if the Licensee does not receive a Confirmation of Order, the software specified in the Certificate of License or that specified in the Software Product Sheet, if the Licensee is instead submitted a Software Product Sheet (hereinafter referred to as "SW"). The Certificate of License and the Software Product Sheet shall be collectively referred to as "CoL" hereinafter. The Licensee shall be submitted the CoL when the SW is supplied or in conjunction with the delivery bill. The way in which the SW is supplied is also derived directly from the Confirmation of Order or from the SW purchase order number contained in the Confirmation of Order, in conjunction with the associated order data of our catalog valid at the time of the Confirmation of Order (hereinafter collectively referred to as "Order Data"), or from the CoL. If the Licensee does not receive a data medium, it shall be authorized to copy the SW already available to it to the extent necessary to exercise the rights to use the SW granted to it. The aforesaid shall apply, mutatis mutandis, to electronic supply of the software (downloading). Where reference is made to the Order Data or the CoL in these General License Conditions, the reference to the CoL is of significance if the Licensee has not received a Confirmation of Order. In any case, the data contained in the Order Data is also contained in the CoL.
+
+1.2 The Documentation relating to the SW (hereinafter referred to as "Documentation") shall be purchased separately, unless either the Order Data or CoL contains a stipulation stating that it belongs to the scope of delivery. If the Licensee is authorized to copy the SW in accordance with Clause 1.1, this shall also apply to the Documentation provided that it is included in the scope of delivery.
+
+1.3 In the event that we submit a License Key to the Licensee, which unlocks the SW (hereinafter referred to as "License Key"), this License Key must also be installed.
+
+1.4 The rights granted to the Licensee with respect to the SW are based on the License Type (see Section 2) and the Software Type (see Section 3). The license and Software Types are detailed in the Order Data or CoL. If the SW is supplied electronically or if copying rights are granted for it, the rights and duties specified in these General License Conditions shall apply to the legitimately generated copies.
+
+1.5 If the Licensee is legitimately in possession of a previous SW version/release (hereinafter referred to as "Previous Version"), the Licensee shall be authorized to exercise the rights to use the SW granted to it either with respect to the SW or - if this is intended from a technical point of view - to the Previous Version, at its own discretion (downgrading). If the SW is an Upgrade or PowerPack in accordance with Section 4, Section 4 shall apply additionally.
+
+1.6 In case the Licensee obtains only the data media but no license as per the Order Data or the CoL, any use of the SW by the Licensee is subject to the acquisition of a license according to Section 2. Up to the acquisition of the license, the Licensee is not entitled to supply the SW to third parties.
+
+1.7 In case the SW contains Open Source Software (hereinafter referred to as "OSS") the OSS is listed in the Readme_OSS-file of the SW. The Licensee is entitled to use the OSS in accordance with the respective license conditions of the OSS. The license conditions are provided on the same data carrier as the SW. The license conditions of the respective OSS shall prevail over these General License Conditions with respect to the OSS. If the license conditions of the OSS require the distribution of the source code of such OSS we shall provide such source code on request against payment of the shipping and handling charges.
+
+1.8 The SW may be licensed software, i.e. software which has not been developed by us itself but which has been licensed to us by a third party (hereinafter referred to as the "Licensor"), e.g. Microsoft Licensing Inc. In the event that the Licensee receives the terms and conditions stipulated by the relevant Licensor together with the SW, such terms and conditions shall apply with respect to the Licensor's liability vis-à-vis the Licensee. Our own liability vis-à-vis the Licensee shall be governed by these General License Conditions.
+
+
+2. License Type
+Depending on the License Type, the Licensee shall be granted the following rights to the SW:
+
+2.1 Single License (One Off License, Copy License)
+The term "One Off License" or "Copy License" which may be used in the Software Product Sheet corresponds to the term "Single License". The following regulation shall apply to the full scope of the One Off License / Copy License. The Licensee shall be granted the non-exclusive right, transferable in accordance with Clause 5.3 and valid for an unlimited period of time, to install the SW on one (1) hardware device and to utilize the SW thus installed in the manner specified in the Order Data or CoL (see "Type of Use").
+
+2.2 Floating License
+The Licensee shall be granted the non-exclusive right, transferable in accordance with Clause 5.3 and valid for an unlimited period of time, to install the SW on any desired number of the Licensee's hardware devices. The number of persons permitted to utilize the SW at the same time ("Users") can be derived from the Order Data or CoL (see "Type of Use).
+
+2.3 Rental License
+The Licensee shall be granted the non-exclusive right, transferable in accordance with Clause 5.3 and limited in time as stipulated in the Order Data or CoL (see "Type of Use"), to install the SW on one (1) hardware device and to use it. If the period of use is specified in hours, the usage decisive for the calculation of the time limit commences with the software start-up and finishes with its shut-down. If the period of usage is specified in days, weeks or months, the specified period, which commences in conjunction with the first SW start-up, shall apply independently of the actual time of usage.
+
+2.4 Trial License
+The Licensee shall be granted the non-exclusive and non-transferable right to install the SW on one (1) hardware device and to use it for validation purposes in the manner specified in the Order Data or CoL (see "Type of Use"). The period of usage is limited to 14 days and commences with the SW start-up, unless a different period of usage is specified in the Order Data or CoL.
+
+2.5 Factory License
+The Licensee shall be granted the non-exclusive right, transferable in accordance with Clause 5.3 and valid for an unlimited period of time, to install and use the SW at one (1) permanent establishment. The number of hardware devices on which it is permitted to install and utilize the SW at this permanent establishment at the same time can be derived from the Order Data or CoL (see "Type of Use"). A permanent establishment is defined by its address. Permanent establishments with different addresses are different permanent establishments in the context of these General License Conditions, except when otherwise stipulated in the Order Data or CoL. The Licensee shall be entitled to install the SW at a different permanent establishment for permanent use, provided that the Licensee uninstalls the SW from all hardware devices of the previous permanent establishment and discontinues the use of the SW at the previous permanent establishment in total.
+
+
+3. Software Type
+If the Software Type is not specified in the Order Data or CoL, the rights specified in Clause 3.2 (Runtime Software) shall apply to the SW.
+
+3.1 Engineering Software (hereinafter referred to as "E-SW")
+In the event that the Licensee uses E-SW to generate its own programs or data containing parts of the E-SW, the Licensee shall have the right, without having to pay any license fee, to copy and to use these parts of the E-SW as a part of its own programs or data, or to supply them to third parties for use. In the event that such parts are supplied to third parties for use, these parties shall be bound in writing to comply with stipulations corresponding to those in Clauses 5.1 and 5.2 with respect to the above parts of the E-SW.
+
+3.2 Runtime Software (hereinafter referred to as "R-SW")
+If the Licensee incorporates R-SW or any parts thereof into its own programs or data, it shall purchase a license with respect to the R-SW each time it installs or copies - depending on what is done first - its own programs or data containing R-SW or parts thereof, in accordance with the relevant intended Type of Use and on the basis of the Siemens catalog valid at that time. In the event that the Licensee supplies the specified programs or data to third parties for their use, these parties shall be bound in writing to adhere to stipulations corresponding to those in Section 5, with respect to the R-SW parts contained therein. The aforesaid shall not affect the Licensee's obligation to purchase a license for the R-SW if the R-SW original is copied. If the R-SW contains tools for parameterization/configuration and extended rights have been granted in this regard, this will be detailed in the readme file of the R-SW.
+
+
+4. Upgrade and PowerPack 
+If it is apparent from the Order Data or CoL, e.g. by the addition "PowerPack" or "Upgrade" after the SW product name, that the SW is an upgrade for another software item (hereinafter referred to as "Source License"), the Licensee shall also have the rights to use the SW granted to it with respect to the Source License as soon as this has been upgraded with the Upgrade/PowerPack. The rights originally granted to the Licensee to use the Source License end in conjunction with the upgrade measure. However, the Licensee is entitled to undo the upgrading (downgrading) - if this is intended from a technical point of view - and to exercise the rights to use the SW granted to it with respect to the Source Version in accordance with Clause 1.5.
+
+
+5. Further Rights and Duties of the Licensee
+
+5.1 Unless a stipulation to the contrary relating to a specific number of copies is contained on the data medium or in the readme file of the SW, the Licensee may generate an appropriate number of copies of every item of SW which it is authorized to use in accordance with these General License Conditions, where such copies shall be used exclusively for data backup purposes. Furthermore the Licensee may only copy the SW if and insofar as it has been granted copying rights by us in writing.
+
+5.2 The Licensee shall not be entitled to modify, decompile or reverse engineer the SW. Nor may it extract any individual parts unless this is permitted by mandatory copyright law. Furthermore, the Licensee shall not be entitled to remove any alphanumeric identifiers, trademarks or copyright notices from the SW or the data medium and, insofar as it is entitled to make copies of the SW, shall copy them without alteration. The aforementioned regulation shall apply accordingly to the Documentation supplied in accordance with Section 1.
+
+5.3 The Licensee shall be entitled to transfer the right to use the SW granted to it to a third party, provided that it concludes a written agreement with the third party in conformance with all of the conditions contained in this Section 5 and on the proviso that it does not retain any copies of the SW. If the Licensee has received a License Key for the SW, this key shall be supplied to the third party together with the SW. Furthermore, the third party shall be submitted the CoL together with these General License Conditions. The Licensee shall submit the CoL received for the SW to us at any time, if requested.
+
+5.4 If the SW is a PowerPack or an Upgrade, the Licensee shall keep the CoL of the Source License and submit it to us at any time, if requested, together with the CoL for the SW. In the event that the Licensee transfers its right to use the PowerPack SW or Upgrade SW in accordance with Clause 5.3, it shall also submit the CoL of the Source License to the third party.
+
+5.5 If the Licensee receives a data medium which, in addition to the SW, contains further software products which are released for use, then it shall have the right to use these released software products exclusively for validation purposes, for a limited period of time and free of charge. The period of use shall be limited to 14 days, commencing with the first start-up of the relevant software program unless a different period is specified e.g. in the readme file of the relevant software product. These software products supplied exclusively for validation purposes shall be governed, mutatis mutandis, by the stipulations contained in these General License Conditions. The Licensee shall not be authorized to pass on these software products separately, i.e. without the SW, to a third party.
+
+In other respects, the terms of the purchase contract shall apply.
+
+Version 2.04
